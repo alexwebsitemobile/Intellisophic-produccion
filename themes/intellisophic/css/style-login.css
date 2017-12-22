@@ -1,0 +1,14 @@
+body, html{
+    background: #285EA4;
+        
+}
+
+.login #login_error, .login .message {
+    border-left: 4px solid #AEE238;
+}
+
+.login #backtoblog a, .login #nav a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
